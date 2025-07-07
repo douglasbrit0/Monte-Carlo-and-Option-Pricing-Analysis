@@ -41,9 +41,9 @@ Monte Carlo simulations to estimate option prices
 
 **Technologies Used**
 
-Python (NumPy, Matplotlib)
+* Python (NumPy, Matplotlib)
 
-Jupyter Notebook
+* Jupyter Notebook
 
 **Getting Started**
 ```bash
