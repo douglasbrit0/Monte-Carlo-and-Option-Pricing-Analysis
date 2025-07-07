@@ -13,31 +13,31 @@ We compare the following methods:
 
 Closed-form Black–Scholes formulas for:
 
-European call options
+* European call options
 
-Binary (cash-or-nothing) call options
+* Binary (cash-or-nothing) call options
 
-Euler–Maruyama discretization of the SDE
+* Euler–Maruyama discretization of the SDE
 
-Milstein scheme (captures the Itô correction)
+* Milstein scheme (captures the Itô correction)
 
 **Key Features**
 
 Monte Carlo simulations to estimate option prices
 
-Convergence analysis:
+ * Convergence analysis:
 
-Vary number of simulation paths N
+   * Vary number of simulation paths N
 
-Vary number of time steps M
+   * Vary number of time steps M
 
-Error vs. 1/sqrt(N) convergence plots
+ * Error vs. 1/sqrt(N) convergence plots
 
-Histogram of binary payoffs to show bimodal variance
+ * Histogram of binary payoffs to show bimodal variance
 
-Parameter sensitivity analysis
+* Parameter sensitivity analysis
 
-Comparison to closed-form prices
+* Comparison to closed-form prices
 
 **Technologies Used**
 
