@@ -1,4 +1,4 @@
-**Monte Carlo and Option Pricing**
+****Monte Carlo and Option Pricing****
 
 This project implements and analyzes numerical techniques for pricing European and binary (cash-or-nothing) call options under the Black–Scholes model. It was developed as part of a Quantitative Finance course exam.
 
